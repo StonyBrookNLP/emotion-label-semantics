@@ -1,7 +1,7 @@
 
 # Modeling-Label-Semantics-for-Predicting-Emotional-Reactions
 
-Using different ways of utilizing label semantics techniques for improving multi-label emotion prediction in short commonsense stories
+Code for the paper - Modeling Label Semantics for Predicting Emotional Reactions - https://arxiv.org/pdf/2006.05489.pdf. This work explores the use different ways of utilizing label semantics techniques for improving multi-label emotion prediction in short commonsense stories:
 
 ## Running experiments
 ### Training a model
