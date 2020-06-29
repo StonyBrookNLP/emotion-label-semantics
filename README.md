@@ -4,7 +4,7 @@
 Code for the paper - Modeling Label Semantics for Predicting Emotional Reactions - https://arxiv.org/pdf/2006.05489.pdf. This work explores the use different ways of utilizing label semantics techniques for improving multi-label emotion prediction in short commonsense stories:
 
 ![GitHub Logo](images/common-sense-stories.PNG)
-Format: ![Alt Text](url)
+*Multi-label emotion ractions in ROC Stories*
 
 ## Running experiments
 ### Training a model
