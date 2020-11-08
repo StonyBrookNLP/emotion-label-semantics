@@ -7,10 +7,12 @@ Code for the paper - Modeling Label Semantics for Predicting Emotional Reactions
 *Multi-label emotion reactions in ROC Stories (Rashkin et al.)*
 
 ## Setup Instructions
-You will need Python version 3.6.8. Aditionally, you can install all the packages needed to run the code by using the requirements.txt file shared in this repository
+You will need Python version 3.6.8 and Pytorch 1.7 (tested on Cuda version 11.0). Aditionally, you can install all the packages needed to run the code by using the requirements.txt file shared in this repository
 ```
 pip install -r requirements.txt
 ```
+Note: The initial set of experiments of this code were done on Pytorch version 1.2 and cuda version 9.2. These were tested again on the latest version mentioned above
+
 ## Running experiments
 ### Training a model
 
