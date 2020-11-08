@@ -14,6 +14,9 @@ pip install -r requirements.txt
 Note: The initial set of experiments of this code were done on Pytorch version 1.2 and cuda version 9.2. These were tested again on the latest version mentioned above
 
 ## Running experiments
+### Data Pre-Processing
+In order for using the data published by Rashkin et al. for this project, the data needs to be pre-processed. Please email at rgaonkar@cs.stonybrook.edu to get access to the preprocessed training and test data files (Please cite our paper whenever you use this data).
+
 ### Training a model
 
 This section covers training a classification model for the Semi-supervision model and the baseline models (refer to Table 1 in the paper). The model names and corresponding main file names are mentioned below:
