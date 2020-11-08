@@ -6,6 +6,11 @@ Code for the paper - Modeling Label Semantics for Predicting Emotional Reactions
 ![GitHub Logo](images/common-sense-stories-new.png)
 *Multi-label emotion reactions in ROC Stories (Rashkin et al.)*
 
+## Setup Instructions
+You will need Python version 3.6.8. Aditionally, you can install all the packages needed to run the code by using the requirements.txt file shared in this repository
+```
+pip install -r requirements.txt
+```
 ## Running experiments
 ### Training a model
 
